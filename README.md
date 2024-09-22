@@ -1,3 +1,11 @@
+My first app  using retrofit for handling api request & DIO api. 
+
+# State  managment
+bloc state managment
+
+# design pattern 
+mvvm
+
 # countrys
 
 A new Flutter project.
